@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Mohammed Zuhaib]  
+- Certification: [Backend Developer]  
 
 ## Instructions
 Please replace the placeholders with your details:
